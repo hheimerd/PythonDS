@@ -1,0 +1,14 @@
+('Basic EPS', '-', '0.74', '-0.98', '-1.14', '-2.37')
+         82898 function calls (82768 primitive calls) in 3.345 seconds
+
+   Ordered by: cumulative time
+   List reduced from 745 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    3.345    3.345 financial.py:20(main)
+        1    0.000    0.000    3.345    3.345 financial.py:9(get_company_row)
+        1    0.000    0.000    3.269    3.269 /mnt/c/Users/32-ko/Desktop/d03/ex04/venv/lib/python3.7/site-packages/requests/api.py:64(get)
+        1    0.000    0.000    3.269    3.269 /mnt/c/Users/32-ko/Desktop/d03/ex04/venv/lib/python3.7/site-packages/requests/api.py:16(request)
+        1    0.000    0.000    3.269    3.269 /mnt/c/Users/32-ko/Desktop/d03/ex04/venv/lib/python3.7/site-packages/requests/sessions.py:470(request)
+
+
